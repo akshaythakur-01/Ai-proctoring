@@ -6,6 +6,7 @@ charset-normalizer==2.0.7
 cmake==3.21.2
 cycler==0.11.0
 dlib==19.22.1
+flask==3.0.2
 flatbuffers==2.0
 fonttools==4.28.2
 gast==0.4.0
